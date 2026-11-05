@@ -1,0 +1,12 @@
+{
+  "name": "Voz e Valor · IA na Advocacia",
+  "short_name": "IA Advocacia",
+  "description": "30 usos de IA para advogados — 19ª Conferência Mineira da Advocacia",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1b2330",
+  "theme_color": "#1b2330",
+  "lang": "pt-BR",
+  "icons": [{ "src": "assets/img/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

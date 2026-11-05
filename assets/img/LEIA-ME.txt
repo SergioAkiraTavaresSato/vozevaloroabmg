@@ -1,0 +1,6 @@
+Coloque aqui os arquivos oficiais (o site usa automaticamente se existirem):
+  logo-vozevalor.png  -> logo "Voz e Valor" (fundo transparente)
+  logo-oab.png        -> logo OAB Minas Gerais
+  palestrante.jpg     -> sua foto (retrato, ~1100x1260)
+  post-evento.jpg     -> arte do post #EuVou (aparece na prévia do link no WhatsApp)
+Sem os arquivos, o site recria a marca em tipografia no estilo do evento.
